@@ -11,7 +11,7 @@ export default function Lookbook({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       id: 1,
       title: "Осенняя элегантность",
       description: "Изысканные образы для особых случаев",
-      image: "/src/assets/images/image-7.jpg",
+      image: "/src/assets/images/lookbook/image-7.jpg",
       items: ["Платье шелковое", "Пальто кашемир", "Туфли лодочки"],
       totalPrice: "45 990"
     },
@@ -19,7 +19,7 @@ export default function Lookbook({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       id: 2,
       title: "Деловой шик",
       description: "Современные решения для офиса",
-      image: "/src/assets/images/image-8.jpg",
+      image: "/src/assets/images/lookbook/image-8.jpg",
       items: ["Блузка классическая", "Брюки прямые", "Жакет приталенный"],
       totalPrice: "32 990"
     },
@@ -27,7 +27,7 @@ export default function Lookbook({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       id: 3,
       title: "Романтический вечер",
       description: "Нежность и женственность",
-      image: "/src/assets/images/image-5.jpg",
+      image: "/src/assets/images/products/image-5.jpg",
       items: ["Платье коктейльное", "Клатч вечерний", "Серьги жемчуг"],
       totalPrice: "28 990"
     }

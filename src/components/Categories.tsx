@@ -22,22 +22,22 @@ export default function Categories({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
   const categories = [
     {
       name: "Платья",
-      image: "/src/assets/images/image-1.jpg",
+      image: "/src/assets/images/products/image-1.jpg",
       count: "120+ моделей"
     },
     {
       name: "Блузки",
-      image: "/src/assets/images/image-2.jpg",
+      image: "/src/assets/images/products/image-2.jpg",
       count: "85+ вариантов"
     },
     {
       name: "Аксессуары",
-      image: "/src/assets/images/image-3.jpg",
+      image: "/src/assets/images/products/image-3.jpg",
       count: "200+ товаров"
     },
     {
       name: "Обувь",
-      image: "/src/assets/images/image-5.jpg",
+      image: "/src/assets/images/products/image-5.jpg",
       count: "90+ пар"
     }
   ];

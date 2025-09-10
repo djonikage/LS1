@@ -25,7 +25,7 @@ export default function NewArrivals({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
     {
       id: 1,
       name: "Элегантное платье Аврора",
-      image: "/src/assets/images/image-1.jpg",
+      image: "/src/assets/images/products/image-1.jpg",
       category: "Платья",
       isNew: true,
       tag: "NEW"
@@ -33,7 +33,7 @@ export default function NewArrivals({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
     {
       id: 2,
       name: "Шелковая блузка Грация",
-      image: "/src/assets/images/image-2.jpg",
+      image: "/src/assets/images/products/image-2.jpg",
       category: "Блузки",
       isNew: true,
       tag: "NEW"
@@ -41,7 +41,7 @@ export default function NewArrivals({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
     {
       id: 3,
       name: "Комплект украшений Тайна",
-      image: "/src/assets/images/image-3.jpg",
+      image: "/src/assets/images/products/image-3.jpg",
       category: "Аксессуары",
       isNew: true,
       tag: "SALE"
@@ -49,7 +49,7 @@ export default function NewArrivals({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
     {
       id: 4,
       name: "Коктейльное платье Мечта",
-      image: "/src/assets/images/image-4.jpg",
+      image: "/src/assets/images/products/image-4.jpg",
       category: "Платья",
       isNew: true,
       tag: "EXCLUSIVE"

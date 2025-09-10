@@ -8,7 +8,7 @@ export default function Hero({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <ImageWithFallback
-            src="/src/assets/images/image-6.jpg"
+            src="/src/assets/images/hero/image-6.jpg"
             alt="Fashion model"
             className="w-full h-full object-cover"
           />
@@ -65,7 +65,7 @@ export default function Hero({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
         
         <div className="lg:w-1/2 h-64 lg:h-auto">
           <ImageWithFallback
-            src="/src/assets/images/image-5.jpg"
+            src="/src/assets/images/products/image-5.jpg"
             alt="Fashion model"
             className="w-full h-full object-cover"
           />

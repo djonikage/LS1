@@ -36,7 +36,7 @@ export default function ProductGalleryModal({
       {
         id: 1,
         name: "Элегантное платье Аврора",
-        image: "/src/assets/images/image-1.jpg",
+        image: "/src/assets/images/products/image-1.jpg",
         category: "Платья",
         isNew: true,
         tag: "NEW"
@@ -44,20 +44,20 @@ export default function ProductGalleryModal({
       {
         id: 2,
         name: "Коктейльное платье Мечта",
-        image: "/src/assets/images/image-4.jpg",
+        image: "/src/assets/images/products/image-4.jpg",
         category: "Платья",
         tag: "EXCLUSIVE"
       },
       {
         id: 3,
         name: "Платье-миди Элеганс",
-        image: "/src/assets/images/image-7.jpg",
+        image: "/src/assets/images/lookbook/image-7.jpg",
         category: "Платья"
       },
       {
         id: 4,
         name: "Летнее платье София",
-        image: "/src/assets/images/image-8.jpg",
+        image: "/src/assets/images/lookbook/image-8.jpg",
         category: "Платья"
       }
     ],
@@ -65,7 +65,7 @@ export default function ProductGalleryModal({
       {
         id: 5,
         name: "Шелковая блузка Грация",
-        image: "/src/assets/images/image-2.jpg",
+        image: "/src/assets/images/products/image-2.jpg",
         category: "Блузки",
         isNew: true,
         tag: "NEW"  
@@ -73,7 +73,7 @@ export default function ProductGalleryModal({
       {
         id: 6,
         name: "Блузка классическая Софи",
-        image: "/src/assets/images/image-5.jpg",
+        image: "/src/assets/images/products/image-5.jpg",
         category: "Блузки"
       }
     ],
@@ -81,14 +81,14 @@ export default function ProductGalleryModal({
       {
         id: 7,
         name: "Комплект украшений Тайна",
-        image: "/src/assets/images/image-3.jpg",
+        image: "/src/assets/images/products/image-3.jpg",
         category: "Аксессуары",
         tag: "SALE"
       },
       {
         id: 8,
         name: "Комплект Диана",
-        image: "/src/assets/images/image-9.jpg",
+        image: "/src/assets/images/products/image-9.jpg",
         category: "Аксессуары"
       }
     ],
@@ -96,7 +96,7 @@ export default function ProductGalleryModal({
       {
         id: 9,
         name: "Туфли классические",
-        image: "/src/assets/images/image-10.jpg",
+        image: "/src/assets/images/products/image-10.jpg",
         category: "Обувь"
       }
     ]

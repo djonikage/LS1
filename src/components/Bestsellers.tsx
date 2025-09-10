@@ -29,7 +29,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Платье-миди Элеганс",
       rating: 4.9,
       reviews: 127,
-      image: "/src/assets/images/image-1.jpg",
+      image: "/src/assets/images/products/image-1.jpg",
       category: "Платья",
       rank: 1,
       tag: "ХИТ №1"
@@ -39,7 +39,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Блузка шелковая Софи",
       rating: 4.8,
       reviews: 89,
-      image: "/src/assets/images/image-2.jpg",
+      image: "/src/assets/images/products/image-2.jpg",
       category: "Блузки",
       rank: 2,
       tag: "ХИТ №2"
@@ -49,7 +49,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Комплект Диана",
       rating: 4.9,
       reviews: 156,
-      image: "/src/assets/images/image-3.jpg",
+      image: "/src/assets/images/products/image-3.jpg",
       category: "Аксессуары",
       rank: 3,
       tag: "ХИТ №3"
@@ -59,7 +59,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Пальто классика Верона",
       rating: 4.7,
       reviews: 73,
-      image: "/src/assets/images/image-4.jpg",
+      image: "/src/assets/images/products/image-4.jpg",
       category: "Одежда",
       rank: 4,
       tag: "ХИТ №4"

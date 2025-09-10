@@ -33,8 +33,8 @@ export default function ProductDetailModal({
   // Дополнительные изображения для демонстрации (в реальном проекте должны приходить с продуктом)
   const additionalImages = [
     product.image,
-    "/src/assets/images/image-6.jpg",
-    "/src/assets/images/image-7.jpg"
+    "/src/assets/images/hero/image-6.jpg",
+    "/src/assets/images/lookbook/image-7.jpg"
   ];
 
   const nextImage = () => {
