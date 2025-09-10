@@ -11,7 +11,7 @@ export default function Lookbook({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       id: 1,
       title: "Осенняя элегантность",
       description: "Изысканные образы для особых случаев",
-      image: "https://images.unsplash.com/photo-1700575306937-0855d570110d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbG9va2Jvb2slMjBzdHlsZXxlbnwxfHx8fDE3NTc0NDExMzd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-7.jpg",
       items: ["Платье шелковое", "Пальто кашемир", "Туфли лодочки"],
       totalPrice: "45 990"
     },
@@ -19,7 +19,7 @@ export default function Lookbook({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       id: 2,
       title: "Деловой шик",
       description: "Современные решения для офиса",
-      image: "https://images.unsplash.com/photo-1639244151653-7807947de5a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbWFnYXppbmUlMjBlZGl0b3JpYWx8ZW58MXx8fHwxNzU3NDA4ODE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-8.jpg",
       items: ["Блузка классическая", "Брюки прямые", "Жакет приталенный"],
       totalPrice: "32 990"
     },
@@ -27,7 +27,7 @@ export default function Lookbook({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       id: 3,
       title: "Романтический вечер",
       description: "Нежность и женственность",
-      image: "https://images.unsplash.com/photo-1568252748074-f9c8d964e834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbG9va2Jvb2slMjBtb2RlbHxlbnwxfHx8fDE3NTc0NDA4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-5.jpg",
       items: ["Платье коктейльное", "Клатч вечерний", "Серьги жемчуг"],
       totalPrice: "28 990"
     }

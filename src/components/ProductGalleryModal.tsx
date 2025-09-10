@@ -36,7 +36,7 @@ export default function ProductGalleryModal({
       {
         id: 1,
         name: "Элегантное платье Аврора",
-        image: "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwZHJlc3MlMjBmYXNoaW9ufGVufDF8fHx8MTc1NzQxMTEyOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-1.jpg",
         category: "Платья",
         isNew: true,
         tag: "NEW"
@@ -44,20 +44,20 @@ export default function ProductGalleryModal({
       {
         id: 2,
         name: "Коктейльное платье Мечта",
-        image: "https://images.unsplash.com/photo-1609681780826-e484497a971d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwcHJvZHVjdCUyMHBob3RvZ3JhcGh5fGVufDF8fHx8MTc1NzMzMTMxOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-4.jpg",
         category: "Платья",
         tag: "EXCLUSIVE"
       },
       {
         id: 3,
         name: "Платье-миди Элеганс",
-        image: "https://images.unsplash.com/photo-1700575306937-0855d570110d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbG9va2Jvb2slMjBzdHlsZXxlbnwxfHx8fDE3NTc0NDExMzd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-7.jpg",
         category: "Платья"
       },
       {
         id: 4,
         name: "Летнее платье София",
-        image: "https://images.unsplash.com/photo-1639244151653-7807947de5a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbWFnYXppbmUlMjBlZGl0b3JpYWx8ZW58MXx8fHwxNzU3NDA4ODE1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-8.jpg",
         category: "Платья"
       }
     ],
@@ -65,7 +65,7 @@ export default function ProductGalleryModal({
       {
         id: 5,
         name: "Шелковая блузка Грация",
-        image: "https://images.unsplash.com/photo-1685338336656-e10a7bb3e12a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21lbiUyMGJsb3VzZSUyMGZhc2hpb258ZW58MXx8fHwxNzU3NDQwOTcyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-2.jpg",
         category: "Блузки",
         isNew: true,
         tag: "NEW"  
@@ -73,7 +73,7 @@ export default function ProductGalleryModal({
       {
         id: 6,
         name: "Блузка классическая Софи",
-        image: "https://images.unsplash.com/photo-1568252748074-f9c8d964e834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbG9va2Jvb2slMjBtb2RlbHxlbnwxfHx8fDE3NTc0NDA4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-5.jpg",
         category: "Блузки"
       }
     ],
@@ -81,14 +81,14 @@ export default function ProductGalleryModal({
       {
         id: 7,
         name: "Комплект украшений Тайна",
-        image: "https://images.unsplash.com/photo-1569388330338-53ecda03dfa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwYWNjZXNzb3JpZXMlMjBqZXdlbHJ5fGVufDF8fHx8MTc1NzM1MTY4N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-3.jpg",
         category: "Аксессуары",
         tag: "SALE"
       },
       {
         id: 8,
         name: "Комплект Диана",
-        image: "https://images.unsplash.com/photo-1694452243736-2b9c00d001b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBjbG90aGluZyUyMHN0b3JlfGVufDF8fHx8MTc1NzQyOTM2NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-9.jpg",
         category: "Аксессуары"
       }
     ],
@@ -96,7 +96,7 @@ export default function ProductGalleryModal({
       {
         id: 9,
         name: "Туфли классические",
-        image: "https://images.unsplash.com/photo-1746216845602-336ad3a744f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21lbiUyMGZhc2hpb24lMjBib3V0aXF1ZXxlbnwxfHx8fDE3NTc0NDA4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+        image: "/src/assets/images/image-10.jpg",
         category: "Обувь"
       }
     ]

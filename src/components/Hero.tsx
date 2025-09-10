@@ -8,7 +8,7 @@ export default function Hero({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <ImageWithFallback
-            src="https://images.unsplash.com/photo-1619384259054-ee3ce9d1798c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwZmFzaGlvbiUyMG1vZGVsfGVufDF8fHx8MTc1NzMzODE1OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+            src="/src/assets/images/image-6.jpg"
             alt="Fashion model"
             className="w-full h-full object-cover"
           />
@@ -65,7 +65,7 @@ export default function Hero({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
         
         <div className="lg:w-1/2 h-64 lg:h-auto">
           <ImageWithFallback
-            src="https://images.unsplash.com/photo-1568252748074-f9c8d964e834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbG9va2Jvb2slMjBtb2RlbHxlbnwxfHx8fDE3NTc0NDA4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+            src="/src/assets/images/image-5.jpg"
             alt="Fashion model"
             className="w-full h-full object-cover"
           />

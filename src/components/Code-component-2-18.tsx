@@ -33,8 +33,8 @@ export default function ProductDetailModal({
   // Дополнительные изображения для демонстрации (в реальном проекте должны приходить с продуктом)
   const additionalImages = [
     product.image,
-    "https://images.unsplash.com/photo-1619384259054-ee3ce9d1798c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwZmFzaGlvbiUyMG1vZGVsfGVufDF8fHx8MTc1NzMzODE1OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    "https://images.unsplash.com/photo-1700575306937-0855d570110d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbG9va2Jvb2slMjBzdHlsZXxlbnwxfHx8fDE3NTc0NDExMzd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+    "/src/assets/images/image-6.jpg",
+    "/src/assets/images/image-7.jpg"
   ];
 
   const nextImage = () => {
