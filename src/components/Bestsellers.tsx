@@ -29,7 +29,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Платье-миди Элеганс",
       rating: 4.9,
       reviews: 127,
-      image: "https://images.unsplash.com/photo-1678637803638-0bcc1e13ecae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwZHJlc3MlMjBmYXNoaW9ufGVufDF8fHx8MTc1NzQxMTEyOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-1.jpg",
       category: "Платья",
       rank: 1,
       tag: "ХИТ №1"
@@ -39,7 +39,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Блузка шелковая Софи",
       rating: 4.8,
       reviews: 89,
-      image: "https://images.unsplash.com/photo-1685338336656-e10a7bb3e12a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21lbiUyMGJsb3VzZSUyMGZhc2hpb258ZW58MXx8fHwxNzU3NDQwOTcyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-2.jpg",
       category: "Блузки",
       rank: 2,
       tag: "ХИТ №2"
@@ -49,7 +49,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Комплект Диана",
       rating: 4.9,
       reviews: 156,
-      image: "https://images.unsplash.com/photo-1569388330338-53ecda03dfa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwYWNjZXNzb3JpZXMlMjBqZXdlbHJ5fGVufDF8fHx8MTc1NzM1MTY4N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-3.jpg",
       category: "Аксессуары",
       rank: 3,
       tag: "ХИТ №3"
@@ -59,7 +59,7 @@ export default function Bestsellers({ variant = 1 }: { variant?: 1 | 2 | 3 }) {
       name: "Пальто классика Верона",
       rating: 4.7,
       reviews: 73,
-      image: "https://images.unsplash.com/photo-1609681780826-e484497a971d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwcHJvZHVjdCUyMHBob3RvZ3JhcGh5fGVufDF8fHx8MTc1NzMzMTMxOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "/src/assets/images/image-4.jpg",
       category: "Одежда",
       rank: 4,
       tag: "ХИТ №4"
